@@ -25,10 +25,15 @@
   },
   "homepage": "https://github.com/smorrison-uoft/Google-Book-Search#readme",
   "dependencies": {
+    "axios": "^0.21.0",
+    "dom": "0.0.3",
     "express": "^4.17.1",
     "if-env": "^1.0.4",
+    "mongodb": "^3.6.2",
     "mongoose": "^5.10.11",
+    "nodejs": "0.0.0",
     "nodemon": "^2.0.6",
+    "react": "^17.0.1",
     "react-router-dom": "^5.2.0"
   }
 }
